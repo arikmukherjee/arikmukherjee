@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 👨‍💻 All of my projects are available at [yoursourcecode.netlify.com](yoursourcecode.netlify.com)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/arikmukherjee](https://linktr.ee/arikmukherjee)
 
 - 💬 Ask me about **C,C++,Java,HTML,CSS & JS**
 

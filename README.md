@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [yoursourcecode.netlify.com](yoursourcecode.netlify.com)
 
-- 💬 Ask me about **C,C++,HTML,CSS & JS**
+- 💬 Ask me about **C,C++,Java,HTML,CSS & JS**
 
 - 📫 How to reach me **arikmukherjee3@gmail.com**
 

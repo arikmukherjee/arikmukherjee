@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arikmukherjee](https://github.com/arikmukherjee)
 
-- 💬 Ask me about **C,C++,Java,HTML,CSS & JS**
+- 💬 Ask me about **C,C++,Java,Python,HTML,CSS & JS**
 
 - 📫 How to reach me **arikmukherjee3@gmail.com**
 

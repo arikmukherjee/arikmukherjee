@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/mukherjeearik](https://linktr.ee/mukherjeearik)
+- 👨‍💻 All of my projects are available at [https://github.com/arikmukherjee](https://github.com/arikmukherjee)
 
 - 💬 Ask me about **C,C++,Java,HTML,CSS & JS**
 

@@ -1,4 +1,4 @@
-![logo](https://gifs.com/gif/binary-rain-yEpO1X)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fbinary-rain-yEpO1X&psig=AOvVaw3XTGcM79hTJGr8FDp6sCG9&ust=1698596090555000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCq2OeRmYIDFQAAAAAdAAAAABAJ)
 <h1 align="center">Hi 👋, I'm Arik Mukherjee</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 

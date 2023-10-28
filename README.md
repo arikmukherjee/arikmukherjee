@@ -1,4 +1,4 @@
-![logo](https://media.tenor.com/jkOCtI7TwRIAAAAd/sworsy-code.gif)
+![logo](https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif)
 <h1 align="center">Hi 👋, I'm Arik Mukherjee</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 

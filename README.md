@@ -1,6 +1,6 @@
 ![logo](https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif)
 <h1 align="center">Hi 👋, I'm Arik Mukherjee</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="arikmukherjee" /> </p>
 

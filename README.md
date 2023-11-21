@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arikmukherjee](https://github.com/arikmukherjee)
 
-- 📝 I regularly write articles on [arikmukherjee.blogspot.com / arikmukherjee.hashnode.dev](arikmukherjee.blogspot.com / arikmukherjee.hashnode.dev)
+- 📝 I regularly write articles on [arikmukherjee.blogspot.com / arikmukherjee.hashnode.dev]
 
 - 💬 Ask me about **C,C++,Java,Python,HTML,CSS & JS**
 

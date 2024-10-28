@@ -65,3 +65,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arikmukherjee&" alt="arikmukherjee" /></p>
 
+<!-- Top Languages in Pie Chart Style (approximation) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikmukherjee&layout=pie&theme=default" alt="Arik's Most Used Languages" />
+</div>

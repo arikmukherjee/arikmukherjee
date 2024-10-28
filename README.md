@@ -1,6 +1,6 @@
 ![logo](https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif)
 <h1 align="center">Hi 👋, I'm Arik Mukherjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="arikmukherjee" /> </p>
 
@@ -27,6 +27,9 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1CuBAmNPHVmdymnvmAwEnsYXB01yjjw94?usp=drive_link](https://drive.google.com/drive/folders/1CuBAmNPHVmdymnvmAwEnsYXB01yjjw94?usp=drive_link)
 
 - ⚡ Fun fact **I am see more**
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

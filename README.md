@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **C++,Python,Web Development**
 
-- 📫 How to reach me **arikmukherjee9@gmail.com**
+- 📫 How to reach me **arikmukherjee3@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1CuBAmNPHVmdymnvmAwEnsYXB01yjjw94?usp=drive_link](https://drive.google.com/drive/folders/1CuBAmNPHVmdymnvmAwEnsYXB01yjjw94?usp=drive_link)
 

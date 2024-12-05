@@ -1,4 +1,4 @@
-![logo](https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif)
+![logo](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 <h1 align="center">Hi 👋, I'm Arik Mukherjee</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 

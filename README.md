@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1CuBAmNPHVmdymnvmAwEnsYXB01yjjw94?usp=drive_link](https://drive.google.com/drive/folders/1CuBAmNPHVmdymnvmAwEnsYXB01yjjw94?usp=drive_link)
 
-- ⚡ Fun fact **I am**[see more](https://github.com/arikmukherjee)
+- ⚡ Fun fact **I am** [see more](https://github.com/arikmukherjee)
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/arikmukherjee6" target="blank"><img src="https://img.shields.io/twitter/follow/arikmukherjee6?logo=twitter&style=for-the-badge" alt="arikmukherjee6" /></a> </p>
 
+<img align="right" alt="Coding"width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
+
 - 🔭 I’m currently working on [Portfolio](arikmukherjee-cs.netlifi.app)
 
 - 🌱 I’m currently learning **Software Development**

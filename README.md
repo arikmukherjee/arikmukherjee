@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [UI/UX](https://github.com/arikmukherjee)
 
-- 👨‍💻 All of my projects are available at [this site](arikmukherjee-cs.netlify.app)
+- 👨‍💻 All of my projects are available at [this site](https://github.com/arikmukherjee?tab=repositories)
 
 - 📝 I regularly write articles on [https://hashnode.com/@arikmukherjee](https://hashnode.com/@arikmukherjee)
 

@@ -71,3 +71,9 @@
 
 - [Google Password Manager to Bitwarden and Norton](https://arikmukherjee.blogspot.com/2026/03/google-password-manager-to-bitwarden.html)
 <!-- BLOG-POST-LIST:END -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arikmukherjee/arikmukherjee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arikmukherjee/arikmukherjee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arikmukherjee/arikmukherjee/output/github-contribution-grid-snake.svg">
+</picture>

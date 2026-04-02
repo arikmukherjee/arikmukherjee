@@ -1,4 +1,5 @@
 ![logo](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Arik Mukherjee</h1>
 <h3 align="center">A Fullstack Developer from India</h3>
 

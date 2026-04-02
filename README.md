@@ -1,6 +1,6 @@
 ![logo](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 <h1 align="center">Hi 👋, I'm Arik Mukherjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Fullstack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="arikmukherjee" /> </p>
 
@@ -60,6 +60,13 @@
 ## 📊 Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arikmukherjee&" alt="arikmukherjee" /></p>
 
-<!-- ### Blogs posts
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END -->
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [SD Card vs SSD: What’s Really Happening Inside Your Storage](https://arikmukherjee.blogspot.com/2026/02/sd-card-vs-ssd-whats-really-happening.html)
+
+- [How to install OPENCV in Ubuntu](https://arikmukherjee.blogspot.com/2025/03/how-to-install-opencv-package-of-python.html)
+
+- [🧠 Artificial Neural Network](https://arikmukherjee.hashnode.dev/artificial-neural-network)
+
+- [Google Password Manager to Bitwarden and Norton](https://arikmukherjee.blogspot.com/2026/03/google-password-manager-to-bitwarden.html)
+<!-- BLOG-POST-LIST:END -->

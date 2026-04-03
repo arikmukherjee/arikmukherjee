@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **arikmukherjee3@gmail.com**
 
-- 📄 Know about my experiences [by clicking here](/index.html)
+- 📄 Know about my experiences [https://arikmukherjee.github.io/Professional-Journey/](https://arikmukherjee.github.io/Professional-Journey/)
 
 - ⚡ Fun fact **☕ Powered by chai + late-night coding sessions.**
 ## 🌐 Socials:

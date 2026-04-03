@@ -68,9 +68,3 @@
 - [1 John 3:6 Controversy &lpar;Bengali&rpar;](https://arikmukherjee.blogspot.com/2026/02/1-john-36-controversy-bengali.html)
 - [Read Letters of Paul in just 28 Days](https://arikmukherjee.blogspot.com/2026/02/read-letters-of-paul-in-just-28-days.html)
 <!-- BLOG-POST-LIST:END -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arikmukherjee/arikmukherjee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arikmukherjee/arikmukherjee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arikmukherjee/arikmukherjee/output/github-contribution-grid-snake.svg">
-</picture>

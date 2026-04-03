@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **arikmukherjee3@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arik-mukherjee/](https://www.linkedin.com/in/arik-mukherjee/)
+- 📄 Know about my experiences [by clicking here](/exp.md)
 
 - ⚡ Fun fact **☕ Powered by chai + late-night coding sessions.**
 ## 🌐 Socials:

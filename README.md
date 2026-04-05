@@ -63,8 +63,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interference in Light vs Quantum States](https://arikmukherjee.blogspot.com/2026/04/interference-in-light-vs-quantum-states.html)
 - [Google Password Manager to Bitwarden and Norton](https://arikmukherjee.blogspot.com/2026/03/google-password-manager-to-bitwarden.html)
 - [SD Card vs SSD: What’s Really Happening Inside Your Storage](https://arikmukherjee.blogspot.com/2026/02/sd-card-vs-ssd-whats-really-happening.html)
 - [1 John 3:6 Controversy &lpar;Bengali&rpar;](https://arikmukherjee.blogspot.com/2026/02/1-john-36-controversy-bengali.html)
-- [Read Letters of Paul in just 28 Days](https://arikmukherjee.blogspot.com/2026/02/read-letters-of-paul-in-just-28-days.html)
 <!-- BLOG-POST-LIST:END -->

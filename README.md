@@ -63,8 +63,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Outlook, developed by Microsoft, is a widely used personal information manager that includes an email client, calendar, task manager, contact manager, note-taking, journal, and web browsing](https://arikmukherjee.blogspot.com/2026/06/outlook-developed-by-microsoft-is.html)
+- [Bubble Sort](https://arikmukherjee.blogspot.com/2026/06/bubble-sort.html)
+- [Gmail, Google&#39;s email service, launched on April 1, 2004, revolutionized the way people handle their emails](https://arikmukherjee.blogspot.com/2026/06/gmail-googles-email-service-launched-on.html)
 - [Interference in Light vs Quantum States](https://arikmukherjee.blogspot.com/2026/04/interference-in-light-vs-quantum-states.html)
-- [Google Password Manager to Bitwarden and Norton](https://arikmukherjee.blogspot.com/2026/03/google-password-manager-to-bitwarden.html)
-- [SD Card vs SSD: What’s Really Happening Inside Your Storage](https://arikmukherjee.blogspot.com/2026/02/sd-card-vs-ssd-whats-really-happening.html)
-- [1 John 3:6 Controversy &lpar;Bengali&rpar;](https://arikmukherjee.blogspot.com/2026/02/1-john-36-controversy-bengali.html)
 <!-- BLOG-POST-LIST:END -->

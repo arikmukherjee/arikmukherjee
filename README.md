@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/arikmukherjee6" target="blank"><img src="https://img.shields.io/twitter/follow/arikmukherjee6?logo=twitter&style=for-the-badge" alt="arikmukherjee6" /></a> </p>
 
-- 🔭 I’m currently working on [Eudify](https://github.com/arikmukherjee/Eudify)
+- 🔭 I’m currently working on [Deep Learning-Based Image Restoration and Inpainting for Digital Image Reconstruction](https://github.com/arikmukherjee/)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 👯 I’m looking to collaborate on [Eudify](https://github.com/arikmukherjee/Eudify)
+- 👯 I’m looking to collaborate on [My Research](https://github.com/arikmukherjee/)
 
-- 🤝 I’m looking for help with [UI/UX](https://github.com/arikmukherjee/Eudify)
+- 🤝 I’m looking for help with [Research Study](https://github.com/arikmukherjee/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arikmukherjee/](https://github.com/arikmukherjee/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@arikmukherjee](https://hashnode.com/@arikmukherjee)
 
-- 📫 How to reach me **arikmukherjee3@gmail.com**
+- 📫 How to reach me **arikmukherjee3@gmail.com & arikmukherjee2022@gmail.com**
 
-- 📄 Know about my experiences [https://arikmukherjee.github.io/Professional-Journey/](https://arikmukherjee.github.io/Professional-Journey/)
+- 📄 Know about my experiences [on Linkedin](https://www.linkedin.com/in/arik-mukherjee/)
 
 - ⚡ Fun fact **☕ Powered by chai + late-night coding sessions.**
 ## 🌐 Socials:

@@ -63,8 +63,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [100 Research Ideas on AI 💡](https://arikmukherjee.blogspot.com/2026/09/100-research-ideas-on-ai.html)
 - [There Is No Universal Perfect Rule !!](https://arikmukherjee.blogspot.com/2026/09/there-is-no-universal-perfect-rule.html)
 - [Outlook, developed by Microsoft, is a widely used personal information manager that includes an email client, calendar, task manager, contact manager, note-taking, journal, and web browsing](https://arikmukherjee.blogspot.com/2026/06/outlook-developed-by-microsoft-is.html)
 - [Bubble Sort](https://arikmukherjee.blogspot.com/2026/06/bubble-sort.html)
-- [Gmail, Google&#39;s email service, launched on April 1, 2004, revolutionized the way people handle their emails](https://arikmukherjee.blogspot.com/2026/06/gmail-googles-email-service-launched-on.html)
 <!-- BLOG-POST-LIST:END -->

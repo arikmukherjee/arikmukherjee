@@ -13,8 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/arikmukherjee6" target="blank"><img src="https://img.shields.io/twitter/follow/arikmukherjee6?logo=twitter&style=for-the-badge" alt="arikmukherjee6" /></a> </p>
 
-- 🔭 I’m currently working on [AI-Based Forest Restoration and Intelligent Tree/Species Recommendation System for Sundarbans](#)
-
 ```yml
 🌈 Name : Arik Mukherjee
 
@@ -43,6 +41,8 @@
 
 🌿 Libraries/Frameworks : React, TailwindCSS, NumPy, Pandas, Scikit-learn
 ```
+
+- 🔭 I’m currently working on [AI-Based Forest Restoration and Intelligent Tree/Species Recommendation System for Sundarbans](#)
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 

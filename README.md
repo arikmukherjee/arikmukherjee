@@ -15,6 +15,35 @@
 
 - 🔭 I’m currently working on [AI-Based Forest Restoration and Intelligent Tree/Species Recommendation System for Sundarbans](#)
 
+```yml
+🌈 Name : Arik Mukherjee
+
+🎓 Education :
+  - B.Sc. in Computer Science, Dum Dum Motijheel College '2025
+  - M.Sc. in Computer Science, West Bengal State University '2027
+
+👨‍💻 Internships :
+  - IDEAS Technical Innovation Hub at Indian Statistical Institute, Kolkata
+  - Aunwesha Academy
+
+🤖 Projects :
+  - Eudify, an E-Learning platform
+
+📊 Research Projects :
+  - Deep Learning-Based Image Restoration and Inpainting for Digital Image Reconstruction
+  - AI-Based Forest Restoration and Intelligent Tree/Species Recommendation System for Sundarbans
+
+✒️ Area of Interest :
+  - Image Processing
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+
+✨ Languages : C, C++, Java, Python, PHP, JavaScript
+
+🌿 Libraries/Frameworks : React, TailwindCSS, NumPy, Pandas, Scikit-learn
+```
+
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
 - 👯 I’m looking to collaborate on [My Projects](https://github.com/arikmukherjee/)

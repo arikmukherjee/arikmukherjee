@@ -116,14 +116,14 @@
 
 <table width="100%" style="border: none;">
   <tr>
-    <td align="left" valign="top" width="65%">
+    <td align="left" valign="top" width="70%">
       <h2>✍️ Random Dev Quote</h2>
       <img
         src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
         alt="Random Dev Quote"
       />
     </td>
-     <td align="center" valign="top" width="35%">
+     <td align="center" valign="top" width="30%">
       <h2>🌿 Scan Now!</h2>
       <img
         src="./social-qr.png"

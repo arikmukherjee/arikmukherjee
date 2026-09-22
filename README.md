@@ -7,7 +7,11 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 <h1 align="center">Hi 👋, I'm Arik Mukherjee</h1>
-<h3 align="center">A Fullstack Developer from India</h3>
+<!-- <h3 align="center">A Fullstack Developer from India</h3> -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=700&lines=Hey%21+I%27m+Arik+Mukherjee+%3E_%3BM.Sc+Computer+Science+%7C+WBSU%3BImage+Processing+%7C+Computer+Vision+%7C+Document+Analysis%3BBuilding+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="arikmukherjee" /> </p>
 
@@ -121,3 +125,7 @@
 - [Outlook, developed by Microsoft, is a widely used personal information manager that includes an email client, calendar, task manager, contact manager, note-taking, journal, and web browsing](https://arikmukherjee.blogspot.com/2026/06/outlook-developed-by-microsoft-is.html)
 - [Bubble Sort](https://arikmukherjee.blogspot.com/2026/06/bubble-sort.html)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=00FF41&center=true&width=435&lines=Thank+you+for+visiting+!+%3E_" alt="Thank you for visiting!" />
+</div>

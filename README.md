@@ -18,7 +18,7 @@
 <a name="author"></a>
 <a href="https://github.com/arikmukherjee">
   <img
-    src="/arik.jpg"
+    src="/arik.png"
     width="150"
     height="150"
     alt="Arik Mukherjee"

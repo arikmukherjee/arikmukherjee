@@ -45,6 +45,7 @@
 
 🌿 Libraries/Frameworks : React, TailwindCSS, NumPy, Pandas, Scikit-learn
 ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
 <details>
 <summary align="center"><b>> ✨ CLICK ME ✨</b></summary>
 

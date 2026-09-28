@@ -13,12 +13,29 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=700&lines=Hey%21+I%27m+Arik+Mukherjee+%3E_%3BM.Sc+Computer+Science+%7C+WBSU%3BImage+Processing+%7C+Computer+Vision+%7C+Document+Analysis%3BBuilding+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
 </div>
 
+<!--AUTHOR START-->
 <div align="center">
-  <a name="author"></a>
-| <a href="https://github.com/arikmukherjee"><img src="https://github.com/arik.jpg" width="150" height="150" alt="Arik Mukherjee"></a><br>[**Arik Mukherjee**](https://github.com/arikmukherjee)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7802--1536-A6CE39.svg)](https://orcid.org/0000-0002-7802-1536) |
-| :---: |
+<a name="author"></a>
+<a href="https://github.com/arikmukherjee">
+  <img
+    src="/arik.jpg"
+    width="150"
+    height="150"
+    alt="Arik Mukherjee"
+    style="border-radius: 50%;"
+  >
+</a>
+<br>
+<a href="https://github.com/arikmukherjee"><strong>Arik Mukherjee</strong></a>
+<br><br>
+<a href="https://orcid.org/0000-0002-7802-1536">
+  <img
+    src="https://img.shields.io/badge/ORCID-0000--0002--7802--1536-A6CE39.svg"
+    alt="ORCID"
+  >
+</a>
 </div>
-
+<!--AUTHOR END-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arikmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="arikmukherjee" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arikmukherjee6" target="blank"><img src="https://img.shields.io/twitter/follow/arikmukherjee6?logo=twitter&style=for-the-badge" alt="arikmukherjee6" /></a> </p>

@@ -163,10 +163,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Did Isaac Newton ever believe in God? &lpar;Bengali Translation&rpar;](https://arikmukherjee.blogspot.com/2026/10/did-isaac-newton-ever-believe-in-god.html)
 - [100 Research Ideas on AI 💡](https://arikmukherjee.blogspot.com/2026/09/100-research-ideas-on-ai.html)
 - [There Is No Universal Perfect Rule !!](https://arikmukherjee.blogspot.com/2026/09/there-is-no-universal-perfect-rule.html)
 - [Outlook, developed by Microsoft, is a widely used personal information manager that includes an email client, calendar, task manager, contact manager, note-taking, journal, and web browsing](https://arikmukherjee.blogspot.com/2026/06/outlook-developed-by-microsoft-is.html)
-- [Bubble Sort](https://arikmukherjee.blogspot.com/2026/06/bubble-sort.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">

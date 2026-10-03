@@ -163,10 +163,10 @@
 
 ### 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A physicist confesses that the electron is round and that Jesus rose from the dead. &lpar;Bengali&rpar;](https://arikmukherjee.blogspot.com/2026/10/a-physicist-confesses-that-electron-is_01847935455.html)
+- [A physicist confesses that the electron is round and that Jesus rose from the dead.](https://arikmukherjee.blogspot.com/2026/10/a-physicist-confesses-that-electron-is.html)
 - [Did Isaac Newton ever believe in God? &lpar;Bengali Translation&rpar;](https://arikmukherjee.blogspot.com/2026/10/did-isaac-newton-ever-believe-in-god.html)
 - [100 Research Ideas on AI 💡](https://arikmukherjee.blogspot.com/2026/09/100-research-ideas-on-ai.html)
-- [There Is No Universal Perfect Rule !!](https://arikmukherjee.blogspot.com/2026/09/there-is-no-universal-perfect-rule.html)
-- [Outlook, developed by Microsoft, is a widely used personal information manager that includes an email client, calendar, task manager, contact manager, note-taking, journal, and web browsing](https://arikmukherjee.blogspot.com/2026/06/outlook-developed-by-microsoft-is.html)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
